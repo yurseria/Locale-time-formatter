@@ -1,2 +1,1 @@
-src/* linguist-vendored
-test/* linguist-vendored=false
+src/ltf_import.js linguist-vendored=true
