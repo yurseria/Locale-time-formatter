@@ -1,0 +1,23 @@
+{
+  "name": "localetimeformatter",
+  "version": "1.0.0",
+  "description": "You can import a country's time format into your country code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/test"
+  },
+  "keywords": [
+    "datetime",
+    "locale",
+    "localization",
+    "time",
+    "date",
+    "localtime",
+    "local"
+  ],
+  "author": "yurseria <yurseria@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
